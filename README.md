@@ -18,7 +18,7 @@ This **Real-Time Stock Analysis Dashboard** allows users to analyze and visualiz
 2. Streamlit
 3. Plotly
 4. Pandas
-5. ahoo Finance (yfinance)
+5. Yahoo Finance (yfinance)
 6. TA-Lib (ta)
 
 ## Usage
