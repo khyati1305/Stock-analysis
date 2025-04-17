@@ -1,6 +1,7 @@
 # Real-Time-Stock-Analysis-Dashboard-using-Streamlit 📊
 
-![image](https://github.com/user-attachments/assets/fae808ab-34a0-45c9-a34e-046d2b6eb567)
+![image](https://github.com/user-attachments/assets/ddbcd241-6021-41bc-9733-636008e96a94)
+
 
 
 ## Overview
