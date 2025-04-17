@@ -1,5 +1,8 @@
 # Real-Time-Stock-Analysis-Dashboard-using-Streamlit 📊
 
+![image](https://github.com/user-attachments/assets/fae808ab-34a0-45c9-a34e-046d2b6eb567)
+
+
 ## Overview
 
 This **Real-Time Stock Analysis Dashboard** allows users to analyze and visualize stock data with various time periods and technical indicators. Built with **Streamlit**, **Plotly**, and **Yahoo Finance (yfinance)**, this dashboard provides a simple interface to explore stock trends, visualize price data, and analyze technical indicators like Simple Moving Averages (SMA) and Exponential Moving Averages (EMA).
