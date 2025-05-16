@@ -1,0 +1,20 @@
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Metric values
+metrics = {
+    "Accuracy": 0.5882,
+    "Precision": 0.6000,
+    "Recall": 0.6923,
+    "F1 Score": 0.6429
+}
+
+# Create bar plot
+plt.figure(figsize=(8, 5))
+sns.barplot(x=list(metrics.keys()), y=list(metrics.values()), palette='viridis')
+plt.ylim(0, 1)
+plt.title("Classification Metrics for Stock Movement Prediction")
+plt.ylabel("Score")
+plt.grid(True, linestyle='--', alpha=0.6)
+plt.tight_layout()
+plt.show()
